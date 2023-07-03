@@ -2,7 +2,8 @@
 
                                                                 &       
                                                             
-![image](https://github.com/Summaw/chatgpt-discord-bot/assets/98126132/cce1fb69-beb2-4733-905a-2c182a1c680c)
+![image](https://github.com/Summaw/chatgpt-discord-bot/assets/98126132/88bd1492-d332-4ac7-8a1d-bd2325d29acb)
+
 
 
 
