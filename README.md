@@ -41,4 +41,4 @@ OPENAI_API_KEY=
 - Discord.js npm package | https://www.npmjs.com/package/discord.js
 
 # Bot Base
-- Summaws v14 bot examle | https://github.com/Summaw/Discord.js-Bot-V14-Example
+- Summaws v14 bot example | https://github.com/Summaw/Discord.js-Bot-V14-Example
